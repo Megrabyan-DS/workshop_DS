@@ -1,0 +1,15 @@
+datasets
+new
+project_name
+TODO.txt
+*.csv
+*.xlsx
+.ipynb_checkpoints
+images
+tmp
+images_tmp
+train
+val
+test
+images-20240912T162646Z-001.zip
+old
