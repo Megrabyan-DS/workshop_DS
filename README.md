@@ -4,7 +4,7 @@
 
 |Название проекта|задачи|Ключевые навыки|Стек|
 |----------------|--------|---------------|----|
-|1. [DonorSearch. Предобработка медицинских документов.](https://github.com/Megrabyan-DS/test_tasks_DS/tree/main/01.DonorSearch)| Необходимо разработать модель определения ориентации справки и автоматического поворота ее в нормальное положение перед запуском сервиса OCR.|Computer Vision. Микросервис.|os, scikit-learn, torch, resnet, FastAPI, Docker|
+|1. [DonorSearch. Предобработка медицинских документов.](https://github.com/Megrabyan-DS/workshop_DS/tree/main/01.DonorSearch )| Необходимо разработать модель определения ориентации справки и автоматического поворота ее в нормальное положение перед запуском сервиса OCR.|Computer Vision. Микросервис.|os, scikit-learn, torch, resnet, FastAPI, Docker|
 
 **Примечания**
 
