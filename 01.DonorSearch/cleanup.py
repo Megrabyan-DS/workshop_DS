@@ -1,3 +1,5 @@
+# Данный скрипт позволяет удалить директории и файлы созданные во время работы DonorSearch.ipynb.
+
 from shutil import rmtree
 import os
 

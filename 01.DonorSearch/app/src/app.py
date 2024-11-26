@@ -15,13 +15,13 @@ from torchvision.models import resnet50
 
 from fastapi.staticfiles import StaticFiles
 
+os.chdir(os.path.split(__file__)[0])  # REDUNDANCY
 
 import sys
 sys.dont_write_bytecode = True
 from transforms_custom import transformer_size, IMG_SIZE  # 224
 sys.dont_write_bytecode = False
 
-os.chdir(os.path.split(__file__)[0])  # REDUNDANCY
 
 
 warnings.filterwarnings("ignore")
